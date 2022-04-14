@@ -16,7 +16,9 @@ dependencies:
       url: https://github.com/fleaflet/flutter_map.git
       ref: master
   latlong2: ^0.8.0
-  flutter_map_marker_popup: ^2.0.0
+  flutter_map_marker_popup:
+    git:
+      url: https://github.com/PaoloP98/flutter_map_marker_popup.git
 
 dev_dependencies:
   flutter_test:
